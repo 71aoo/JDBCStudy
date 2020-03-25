@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="535481fc-2adc-4fe9-b179-27d5fdd7b845" name="Default Changelist" comment="" />
+    <list default="true" id="535481fc-2adc-4fe9-b179-27d5fdd7b845" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIYDatesource/target/classes/JDBC.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIYDatesource/target/classes/com/Playwi0/Utiiles/MyDatesource$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIYDatesource/target/classes/com/Playwi0/Utiiles/MyDatesource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIYDatesource/target/test-classes/MyTest/MyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.0/target/classes/JDBC.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.0/target/classes/META-INF/JDBC-connection.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.0/target/classes/com/Playwi0/Utils/JDBCUtiles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.0/target/classes/com/Playwi0/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.0/target/classes/com/Playwi0/dao/UserDaoJDBCImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.0/target/classes/com/Playwi0/exception/DaoException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.0/target/classes/com/Playwi0/pojo/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.0/target/test-classes/META-INF/JDBC-connection.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.0/target/test-classes/com/mytest/mytest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.1/target/classes/JDBC.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.1/target/classes/com/Playwi0/Utiles/JDBCUtiles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.1/target/classes/com/Playwi0/dao/AbstractDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.1/target/classes/com/Playwi0/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.1/target/classes/com/Playwi0/dao/UserDaoJDBCImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.1/target/classes/com/Playwi0/exception/DaoException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.1/target/classes/com/Playwi0/pojo/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.1/target/test-classes/MyTets/MyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.2/target/classes/JDBC.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.2/target/classes/com/Playwi0/Mapper/RowMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.2/target/classes/com/Playwi0/Mapper/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.2/target/classes/com/Playwi0/Utiles/JDBCUtiles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.2/target/classes/com/Playwi0/Utiles/MyJDBCTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.2/target/classes/com/Playwi0/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.2/target/classes/com/Playwi0/dao/UserDaoJDBCImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.2/target/classes/com/Playwi0/exception/DaoException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.2/target/classes/com/Playwi0/pojo/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCUtiles-1.2/target/test-classes/MyTest/MyTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +88,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -77,6 +115,7 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/JDBCUtiles-2.0/src/main/java/com/Playwi0/mapper" />
@@ -234,6 +273,7 @@
       <workItem from="1585012681854" duration="7484000" />
       <workItem from="1585033266600" duration="5879000" />
       <workItem from="1585103311471" duration="2490000" />
+      <workItem from="1585106292743" duration="105000" />
     </task>
     <servers />
   </component>
@@ -261,22 +301,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="761" y="282" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1584933296823" />
-    <state width="1877" height="264" key="GridCell.Tab.0.bottom" timestamp="1585054954775">
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom" timestamp="1585106397136">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1585054954775" />
-    <state width="1877" height="264" key="GridCell.Tab.0.center" timestamp="1585054954775">
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1585106397136" />
+    <state width="1877" height="264" key="GridCell.Tab.0.center" timestamp="1585106397135">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="264" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1585054954775" />
-    <state width="1877" height="264" key="GridCell.Tab.0.left" timestamp="1585054954775">
+    <state width="1877" height="264" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1585106397135" />
+    <state width="1877" height="264" key="GridCell.Tab.0.left" timestamp="1585106397135">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="264" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1585054954775" />
-    <state width="1877" height="264" key="GridCell.Tab.0.right" timestamp="1585054954775">
+    <state width="1877" height="264" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1585106397135" />
+    <state width="1877" height="264" key="GridCell.Tab.0.right" timestamp="1585106397135">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="264" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1585054954775" />
+    <state width="1877" height="264" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1585106397135" />
     <state width="1877" height="329" key="GridCell.Tab.1.bottom" timestamp="1584933144026">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
